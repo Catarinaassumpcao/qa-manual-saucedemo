@@ -16,7 +16,10 @@ Estar na página de login do SauceDemo.
 O sistema deve impedir o login e apresentar uma mensagem informando que o usuário ou a senha estão incorretos.
 
 ## Resultado obtido
-A registrar após executar o teste.
+O sistema impediu o acesso com senha incorreta e exibiu a mensagem: "Epic sadface: Username and password do not match any user in this service."
+
+## Status
+PASS — Aprovado.
 
 ## Status
 Pendente de execução.
