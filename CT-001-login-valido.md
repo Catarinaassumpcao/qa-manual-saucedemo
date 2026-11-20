@@ -16,7 +16,7 @@ Estar na página de login do SauceDemo.
 O sistema deve permitir o acesso e apresentar a página de produtos.
 
 ## Resultado obtido
-A registrar após executar o teste.
+O sistema permitiu o login com credenciais válidas e apresentou corretamente a página de produtos do SauceDemo.
 
 ## Status
-Pendente de execução.
+PASS — Aprovado
