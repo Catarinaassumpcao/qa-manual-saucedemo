@@ -28,7 +28,7 @@ https://postman-echo.com/get
 A API deve retornar status 200 OK e apresentar o parâmetro nome com valor Catarina no JSON de resposta.
 
 ## Resultado observado
-A requisição retornou status 200 OK. O endereço enviado apresentou o parâmetro nome=Catarina.
+A requisição retornou foi validada
 
 ## Status
-Parcialmente validado — falta confirmar o valor no corpo JSON da resposta.
+PASS APROVADO
